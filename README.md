@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JokevtZ
 - 👀 I’m interested in everything that involves programming
-- 🌱 I’m currently learning full stack webdevelopment
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m collaborate with my student group
 - 📫 How to reach me, you can find me on linkedIn
 
