@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JokevtZ
+- 👋 Hi,I'm a graduated software engineer
 - 👀 I’m interested in everything that involves programming
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m collaborate with my student group
+- 🌱 I’m currently learning full stack 
 - 📫 How to reach me, you can find me on linkedIn
 
 <!---
